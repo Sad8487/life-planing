@@ -1,0 +1,9 @@
+.col:first-child {
+    background-color: rgb(168, 240, 174);
+}
+.col:nth-child(2) {
+    background-color: rgb(245, 190, 228);
+}
+.col:last-child {
+    background-color: rgb(135, 208, 236);
+}
